@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Avariq Fazlur Rahman - 2502043002
+# L1CC
 """
 No.5 - Temprature Converter
 """
